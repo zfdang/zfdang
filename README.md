@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Zhengfa DANG (党政法) 👋
+# Hi there, I'm Zhengfa DANG 👋
 
 **Engineering Leader &middot; Open Source Builder**
 
@@ -23,7 +23,7 @@
 | [**chinese-lunar-calendar-for-mac**](https://github.com/zfdang/chinese-lunar-calendar-for-mac) | **Mac 状态栏万年历**<br/>轻量级 macOS 状态栏万年历，含农历、节气、法定节假日调休安排及自定义纪念日提醒。<br/>*Lightweight menu-bar lunar calendar with Chinese statutory holidays and anniversaries.* | `Objective-C` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/chinese-lunar-calendar-for-mac?style=flat-square&color=yellow) |
 | [**process-viewer-for-macos**](https://github.com/zfdang/process-viewer-for-macos) | **macOS 进程树查看器**<br/>原生 macOS 系统进程分级树形查看与监控工具，清晰呈现父子进程层级及资源状态。<br/>*Native macOS app for viewing and inspecting system processes in a hierarchical tree layout.* | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/process-viewer-for-macos?style=flat-square&color=yellow) |
 | [**macos-countdown-screensaver**](https://github.com/zfdang/macos-countdown-screensaver) | **倒计时屏幕保护程序**<br/>原生 macOS 屏保，支持多重要日期与倒计时追踪，兼容公历与农历节日。<br/>*Native macOS countdown screen saver tracking up to 5 events with Gregorian and Lunar calendars.* | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/macos-countdown-screensaver?style=flat-square&color=yellow) |
-| [**voice-input-buddy**](https://github.com/zfdang/voice-input-buddy) | **语音搭子 (Voice Input Buddy)**<br/>原生 macOS 语音输入与实时转录助手，专为提升日常文字输入与打字记录效率打造。<br/>*Native macOS voice input and transcription companion for daily productivity.* | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/voice-input-buddy?style=flat-square&color=yellow) |
+| [**voice-input-buddy**](https://github.com/zfdang/voice-input-buddy) | **语音搭子 (Voice Input Buddy)**<br/>原生 macOS 遥控器语音输入桥接工具，转发遥控器音频并触发语音快捷键，语音识别由外部输入法或听写工具完成。<br/>*Native macOS bridge for remote-control voice input, forwarding audio and triggering shortcuts for speech recognition by an external input method or dictation tool.* | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/voice-input-buddy?style=flat-square&color=yellow) |
 | [**video-auto-translate**](https://github.com/zfdang/video-auto-translate) | **视频字幕与语言自动翻译**<br/>结合大语言模型的视频语音识别转录、时间轴自动对齐与多语言字幕翻译工具。<br/>*Automated video speech transcription, subtitle alignment, and multi-language translation.* | `Swift` `Python` | ![Stars](https://img.shields.io/github/stars/zfdang/video-auto-translate?style=flat-square&color=yellow) |
 | [**free-for-macOS**](https://github.com/zfdang/free-for-macOS) | **macOS 内存统计命令行工具**<br/>类似 Linux `free` 命令的极简 macOS 内存使用统计命令行工具，支持 Homebrew 一键安装。<br/>*Lightweight memory CLI tool for macOS (similar to `free` in Linux).* | `C` `macOS CLI` | ![Stars](https://img.shields.io/github/stars/zfdang/free-for-macOS?style=flat-square&color=yellow) |
 | [**hammerspoon-config**](https://github.com/zfdang/hammerspoon-config) | **Hammerspoon 效率配置**<br/>深度定制的 Hammerspoon 脚本配置：多屏幕窗口管理与快速分屏、按键速启、休眠自动断开蓝牙。<br/>*Personal Hammerspoon configuration for window management, shortcuts, and sleep Bluetooth control.* | `Lua` `Hammerspoon` | ![Stars](https://img.shields.io/github/stars/zfdang/hammerspoon-config?style=flat-square&color=yellow) |
