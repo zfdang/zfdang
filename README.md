@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Zhengfa DANG (党政法) 👋
+# Hi there, I'm Zhengfa DANG 👋
 
 **Engineering Leader &middot; Open Source Builder**
 
