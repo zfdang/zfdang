@@ -53,9 +53,3 @@
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfdang&layout=compact&hide_border=true" />
   </picture>
 </div>
-
----
-
-<div align="center">
-  <sub>🌐 <a href="https://zfdang.com">zfdang.com</a> &middot; ✍️ <a href="https://blog.zfdang.com">blog.zfdang.com</a> &middot; 💬 <a href="mailto:dantifer@gmail.com">dantifer@gmail.com</a></sub>
-</div>
