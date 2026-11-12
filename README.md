@@ -14,7 +14,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Spotlight · 近期主打项目 (Buddy Series)
+
+> 💡 **无线遥控 + 纯本地端侧 AI 语音输入生态**：聚焦于高效、隐私优先的桌面无键盘语音工作流，覆盖 **macOS** 与 **Windows** 平台。
+
+| Featured Project | Highlights & Key Features | Platform & Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| 🔥 [**remote-buddy**](https://github.com/zfdang/remote-buddy) | **遥控搭子 · Remote Buddy (macOS)**<br/>将小米 / Google 蓝牙遥控器变为 Mac 无线语音输入按钮与自定义快捷键控制器；内置虚拟麦克风，无缝配合第三方输入法或听写工具按住即说，支持全按键映射与常用语，零统计、零录音留存。<br/>*Turn a Bluetooth remote into a wireless voice-input button & programmable key mapper for macOS with built-in virtual mic routing and zero telemetry.*<br/>🌐 [项目主页 / Website](https://remote.zfdang.com/) &middot; 📦 [Releases](https://github.com/zfdang/remote-buddy/releases) | `Swift` `macOS 14+` `GPL-3.0` | ![Stars](https://img.shields.io/github/stars/zfdang/remote-buddy?style=flat-square&color=yellow) |
+| 🔥 [**voice-buddy**](https://github.com/zfdang/voice-buddy) | **语音搭子 · Voice Buddy (macOS)**<br/>**100% 纯本地端侧运行**的 Apple Silicon AI 语音输入与润色工具：支持 Whisper / SenseVoice / Qwen3-ASR / Apple Speech 多引擎听写与本地大模型双列对比整理，**零数据上云、零录音留存、零 API 费用**。<br/>*100% on-device voice dictation & local LLM refinement for Apple Silicon macOS — zero cloud transmission, zero audio caching, and zero API fees.*<br/>🌐 [项目主页 / Website](https://myvoicebuddy.com/) &middot; 📦 [Releases](https://github.com/zfdang/voice-buddy/releases) | `macOS 15+` `Apple Silicon` `CoreML / MLX` | ![Stars](https://img.shields.io/github/stars/zfdang/voice-buddy?style=flat-square&color=yellow) |
+| 🔥 [**remote-buddy-windows**](https://github.com/zfdang/remote-buddy-windows) | **遥控搭子 Windows 版 · Remote Buddy for Windows**<br/>原生 Windows 低功耗蓝牙（BLE）遥控器语音输入桥接工具：纯软件直连遥控器、ATVV 音频实时解码送入虚拟麦克风，无缝触发微信/豆包输入法或 `Win + H` 系统听写，无需额外 USB 硬件。<br/>*Native Windows BLE bridge turning Bluetooth TV remotes into a global voice-input button and shortcut controller without extra USB dongles.*<br/>📦 [Releases](https://github.com/zfdang/remote-buddy-windows/releases) | `C#` `.NET 10` `Windows` | ![Stars](https://img.shields.io/github/stars/zfdang/remote-buddy-windows?style=flat-square&color=yellow) |
+
+---
+
+## 🚀 More Featured Projects
 
 ### 🍎 macOS Applications & System Tools
 
@@ -23,7 +35,6 @@
 | [**chinese-lunar-calendar-for-mac**](https://github.com/zfdang/chinese-lunar-calendar-for-mac) | **Mac 状态栏万年历**<br/>轻量级 macOS 状态栏万年历，含农历、节气、法定节假日调休安排及自定义纪念日提醒。<br/>*Lightweight menu-bar lunar calendar with Chinese statutory holidays and anniversaries.*<br/>🌐 [项目主页 / Website](https://calendar.zfdang.com/) | `Objective-C` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/chinese-lunar-calendar-for-mac?style=flat-square&color=yellow) |
 | [**process-viewer-for-macos**](https://github.com/zfdang/process-viewer-for-macos) | **macOS 进程树查看器**<br/>原生 macOS 系统进程分级树形查看与监控工具，清晰呈现父子进程层级及资源状态。<br/>*Native macOS app for viewing and inspecting system processes in a hierarchical tree layout.*<br/>🌐 [项目主页 / Website](https://proc.zfdang.com/) | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/process-viewer-for-macos?style=flat-square&color=yellow) |
 | [**macos-countdown-screensaver**](https://github.com/zfdang/macos-countdown-screensaver) | **倒计时屏幕保护程序**<br/>原生 macOS 屏保，支持多重要日期与倒计时追踪，兼容公历与农历节日。<br/>*Native macOS countdown screen saver tracking up to 5 events with Gregorian and Lunar calendars.* | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/macos-countdown-screensaver?style=flat-square&color=yellow) |
-| [**voice-input-buddy**](https://github.com/zfdang/voice-input-buddy) | **语音搭子 (Voice Input Buddy)**<br/>原生 macOS 遥控器语音输入桥接工具，转发遥控器音频并触发语音快捷键，语音识别由外部输入法或听写工具完成。<br/>*Native macOS bridge for remote-control voice input, forwarding audio and triggering shortcuts for speech recognition by an external input method or dictation tool.*<br/>🌐 [项目主页 / Website](https://voice.zfdang.com/) | `Swift` `macOS` | ![Stars](https://img.shields.io/github/stars/zfdang/voice-input-buddy?style=flat-square&color=yellow) |
 | [**video-auto-translate**](https://github.com/zfdang/video-auto-translate) | **视频字幕与语言自动翻译**<br/>结合大语言模型的视频语音识别转录、时间轴自动对齐与多语言字幕翻译工具。<br/>*Automated video speech transcription, subtitle alignment, and multi-language translation.*<br/>🌐 [项目主页 / Website](https://vat.zfdang.com/) | `Swift` `Python` | ![Stars](https://img.shields.io/github/stars/zfdang/video-auto-translate?style=flat-square&color=yellow) |
 | [**free-for-macOS**](https://github.com/zfdang/free-for-macOS) | **macOS 内存统计命令行工具**<br/>类似 Linux `free` 命令的极简 macOS 内存使用统计命令行工具，支持 Homebrew 一键安装。<br/>*Lightweight memory CLI tool for macOS (similar to `free` in Linux).* | `C` `macOS CLI` | ![Stars](https://img.shields.io/github/stars/zfdang/free-for-macOS?style=flat-square&color=yellow) |
 | [**hammerspoon-config**](https://github.com/zfdang/hammerspoon-config) | **Hammerspoon 效率配置**<br/>深度定制的 Hammerspoon 脚本配置：多屏幕窗口管理与快速分屏、按键速启、休眠自动断开蓝牙。<br/>*Personal Hammerspoon configuration for window management, shortcuts, and sleep Bluetooth control.* | `Lua` `Hammerspoon` | ![Stars](https://img.shields.io/github/stars/zfdang/hammerspoon-config?style=flat-square&color=yellow) |
